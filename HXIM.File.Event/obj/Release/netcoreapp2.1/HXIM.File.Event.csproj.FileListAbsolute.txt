@@ -1,0 +1,17 @@
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\HXIM.File.Event.deps.json
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\HXIM.File.Event.runtimeconfig.json
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\HXIM.File.Event.runtimeconfig.dev.json
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\HXIM.File.Event.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\HXIM.File.Event.pdb
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\HXIM.File.AWSS3.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\HXIM.File.Model.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\RX.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\HXIM.File.AWSS3.pdb
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\bin\Release\netcoreapp2.1\HXIM.File.Model.pdb
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\obj\Release\netcoreapp2.1\HXIM.File.Event.csprojAssemblyReference.cache
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\obj\Release\netcoreapp2.1\HXIM.File.Event.csproj.CoreCompileInputs.cache
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\obj\Release\netcoreapp2.1\HXIM.File.Event.AssemblyInfoInputs.cache
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\obj\Release\netcoreapp2.1\HXIM.File.Event.AssemblyInfo.cs
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\obj\Release\netcoreapp2.1\HXIM.File.Event.csproj.CopyComplete
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\obj\Release\netcoreapp2.1\HXIM.File.Event.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Event\obj\Release\netcoreapp2.1\HXIM.File.Event.pdb

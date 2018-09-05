@@ -1,0 +1,11 @@
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\bin\Debug\netcoreapp2.1\HXIM.File.Model.deps.json
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\bin\Debug\netcoreapp2.1\HXIM.File.Model.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\bin\Debug\netcoreapp2.1\HXIM.File.Model.pdb
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\obj\Debug\netcoreapp2.1\HXIM.File.Model.csproj.CoreCompileInputs.cache
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\obj\Debug\netcoreapp2.1\HXIM.File.Model.AssemblyInfoInputs.cache
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\obj\Debug\netcoreapp2.1\HXIM.File.Model.AssemblyInfo.cs
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\obj\Debug\netcoreapp2.1\HXIM.File.Model.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\obj\Debug\netcoreapp2.1\HXIM.File.Model.pdb
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\bin\Debug\netcoreapp2.1\RX.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\obj\Debug\netcoreapp2.1\HXIM.File.Model.csproj.CopyComplete
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.Model\obj\Debug\netcoreapp2.1\HXIM.File.Model.csprojAssemblyReference.cache

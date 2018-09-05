@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HXIM.File.AWSS3\HXIM.File.AWSS3.csproj" />
+    <ProjectReference Include="..\HXIM.File.Model\HXIM.File.Model.csproj" />
+  </ItemGroup>
+
+</Project>

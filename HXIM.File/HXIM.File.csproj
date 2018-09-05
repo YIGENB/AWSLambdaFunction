@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+    <AWSProjectType>Lambda</AWSProjectType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Amazon.Lambda.Core" Version="1.0.0" />
+    <PackageReference Include="Amazon.Lambda.Serialization.Json" Version="1.3.0" />
+    <PackageReference Include="Amazon.Lambda.S3Events" Version="1.0.2" />
+    <PackageReference Include="ErikEJ.EntityFrameworkCore.DgmlBuilder" Version="2.1.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Amazon.Lambda.Tools" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HXIM.File.AWSS3\HXIM.File.AWSS3.csproj" />
+    <ProjectReference Include="..\HXIM.File.Event\HXIM.File.Event.csproj" />
+    <ProjectReference Include="..\HXIM.File.Model\HXIM.File.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="RX">
+      <HintPath>lib\RX.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

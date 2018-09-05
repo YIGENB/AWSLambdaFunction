@@ -1,0 +1,9 @@
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.AWSS3\bin\Debug\netcoreapp2.1\HXIM.File.AWSS3.deps.json
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.AWSS3\bin\Debug\netcoreapp2.1\HXIM.File.AWSS3.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.AWSS3\bin\Debug\netcoreapp2.1\HXIM.File.AWSS3.pdb
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.AWSS3\obj\Debug\netcoreapp2.1\HXIM.File.AWSS3.csproj.CoreCompileInputs.cache
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.AWSS3\obj\Debug\netcoreapp2.1\HXIM.File.AWSS3.AssemblyInfoInputs.cache
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.AWSS3\obj\Debug\netcoreapp2.1\HXIM.File.AWSS3.AssemblyInfo.cs
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.AWSS3\obj\Debug\netcoreapp2.1\HXIM.File.AWSS3.dll
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.AWSS3\obj\Debug\netcoreapp2.1\HXIM.File.AWSS3.pdb
+E:\项目\华夏IM文件处理\HXIM.File\HXIM.File.AWSS3\obj\Debug\netcoreapp2.1\HXIM.File.AWSS3.csprojAssemblyReference.cache

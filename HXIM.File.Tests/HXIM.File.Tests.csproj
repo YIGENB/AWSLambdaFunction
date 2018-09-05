@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <PackageReference Include="Amazon.Lambda.Core" Version="1.0.0" />
+    <PackageReference Include="Amazon.Lambda.TestUtilities" Version="1.0.0" />
+    <PackageReference Include="Amazon.Lambda.S3Events" Version="1.0.2" />
+
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0" />
+
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HXIM.File.Event\HXIM.File.Event.csproj" />
+    <ProjectReference Include="..\HXIM.File.Model\HXIM.File.Model.csproj" />
+    <ProjectReference Include="..\HXIM.File\HXIM.File.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="RX">
+      <HintPath>..\HXIM.File\lib\RX.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
